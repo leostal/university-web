@@ -91,6 +91,10 @@
     text-decoration: none;
 }
 
+.links_item__disabled {
+    opacity: 0.2;
+}
+
 .links_item:first-child {
     cursor: pointer;
     margin-top: 0;
